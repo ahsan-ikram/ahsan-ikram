@@ -4,8 +4,6 @@
 <!-- Total Visits -->
 ![Page Views](https://komarev.com/ghpvc/?username=muhammad-ahsan&color=0e75b6&style=flat)
 
-<!-- Unique Visitor -->
-![Unique Users](https://hits.sh/github.com/muhammad-ahsan/advisory-agent.svg?style=flat-square)
 
 👋 Bonjour, I’m **Ahsan** —  an AI/ML Systems Engineer with 15 years of cross-industry experience in architecting and building production-ready intelligent systems. I blend systems engineering, solution architecture, and hands-on implementation to help organizations turn complex data and machine learning concepts into scalable, software products.
 
