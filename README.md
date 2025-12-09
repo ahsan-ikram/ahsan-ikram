@@ -1,9 +1,8 @@
 # Ahsan Ikram
-### Architecting & Building Production-Ready Intelligence
-
 <!-- Total Visits -->
 ![](https://komarev.com/ghpvc/?username=muhammad-ahsan&color=0e75b6&style=flat)
 
+### Architecting & Building Production-Ready Intelligence
 
 👋 Bonjour, I’m **Ahsan** —  an AI/ML Systems Engineer with 15 years of cross-industry experience in architecting and building production-ready intelligent systems. I blend systems engineering, solution architecture, and hands-on implementation to help organizations turn complex data and machine learning concepts into scalable, software products.
 
