@@ -1,10 +1,8 @@
 # Ahsan Ikram
-<!-- Total Visits -->
-![](https://komarev.com/ghpvc/?username=muhammad-ahsan&color=0e75b6&style=flat)
 
-### Let's build a world where ethical, intelligent systems uplift human potential.
+### Let's build a world together where ethical, intelligent systems uplift human potential.
 
-👋 Bonjour, I’m **Ahsan** —  an AI/ML Systems Engineer with 15 years of cross-industry experience in architecting and building production-ready intelligent systems. I blend systems engineering, solution architecture, and hands-on implementation to help organizations turn complex data and machine learning concepts into scalable, software products.
+👋 Bonjour, I’m **Ahsan** —  a Staff AI Systems Engineer with 15 years of experience in architecting and building production-ready intelligent systems. I blend systems engineering, solution architecture, and hands-on implementation to help organizations turn complex data and machine learning into production-ready software products and services.
 
 I design end-to-end AI and data platforms, lead technical execution, and guide teams through the full lifecycle of intelligent systems — from discovery and architecture to deployment and optimization. I focus on translating emerging AI capabilities into practical enterprise applications, building resilient ML pipelines, and enabling data-driven decision-making at scale. My work emphasizes clarity, robust engineering, and solutions that deliver lasting operational and business value.
 
@@ -64,3 +62,5 @@ I partner with startups, enterprises, and innovation teams to design and deliver
 </body>
 </html>
 
+
+![](https://hit.yhype.me/github/profile?account_id=1093769)
