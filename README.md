@@ -4,8 +4,6 @@
 
 👋 Bonjour, I’m **Ahsan** —  a Staff AI Systems Engineer with 15 years of experience in architecting and building production-ready intelligent systems. I blend systems engineering, solution architecture, and hands-on implementation to help organizations turn complex data and machine learning into production-ready software products and services.
 
-I design end-to-end AI and data platforms, lead technical execution, and guide teams through the full lifecycle of intelligent systems — from discovery and architecture to deployment and optimization. I focus on translating emerging AI capabilities into practical enterprise applications, building resilient ML pipelines, and enabling data-driven decision-making at scale. My work emphasizes clarity, robust engineering, and solutions that deliver lasting operational and business value.
-
 ---
 ### 🧠 Technical & Delivery Expertise
 
