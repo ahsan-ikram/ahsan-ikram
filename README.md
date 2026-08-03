@@ -2,17 +2,17 @@
 
 ### Let's build a world together where ethical, intelligent systems uplift human potential.
 
-👋 Bonjour, I’m **Ahsan** —  a Staff AI Systems Engineer with 15 years of experience in architecting and building production-ready intelligent systems. I blend systems engineering, solution architecture, and hands-on implementation to help organizations turn complex data and machine learning into production-ready software products and services.
+Ahsan is a senior data & AI engineering leader with 15+ years driving high‑velocity delivery across machine learning, data engineering, and MLOps in energy, telecom, healthcare, eCommerce, mobility, finance, and marketing intelligence. PMP-certified with solid experience of building and leading multiple cross-functional teams of up to 10 engineers and data scientists, delivering production-grade ML platforms, forecasting systems, and data architectures using AWS, GCP, Kubernetes, and Terraform. Known for systems thinking, operational discipline, and value-driven leadership, consistently transforming ambiguous environments into scalable, high-throughput delivery engines.
 
 ---
 ### 🧠 Technical & Delivery Expertise
 
+- **Leadership & Strategy** — aligning teams and stakeholders to ensure AI and data initiatives deliver clear, measurable business value.
+- **Product Delivery** — driving AI and data products from prototype to production, including migrations, scaling, and operational readiness.
 - **AI & ML Platforms** — architecting and delivering scalable ML and LLM systems, including RAG pipelines and domain-specific AI solutions.
 - **Data & Cloud Architecture** — building enterprise data platforms, pipelines, and cloud-native systems across AWS, GCP, and Azure.
 - **MLOps & LLMOps** — implementing automated, reliable workflows for model deployment, monitoring, and performance optimization.
-- **Product Delivery** — driving AI and data products from prototype to production, including migrations, scaling, and operational readiness.
 - **Systems Integration** — leading API design, service orchestration, and infrastructure automation.
-- **Leadership & Strategy** — aligning teams and stakeholders to ensure AI and data initiatives deliver clear, measurable business value.
 
 ---
 ### 🤝 Let’s Collaborate
